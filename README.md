@@ -1,1 +1,1 @@
-# Movide app
+# Movie app
