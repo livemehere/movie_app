@@ -1,0 +1,35 @@
+.movie{
+    background-color: white;
+    display: flex;
+    border: 1px black solid;
+    width: 35%;
+    margin: 7%;
+    position: relative;
+    height: 300px;
+    box-shadow: rgba(8, 8, 8, 0.171) 0px 10px 20px;
+    
+}
+
+img{
+    position: absolute;
+    width: 160px;
+    top: -10%;
+    box-shadow: rgba(0, 0, 0, 0.445) 0px 10px 20px;
+}
+
+.movie_data{
+    padding-left: 25%;
+    overflow: hidden;
+}
+
+.movie_title{
+    font-size: 28px;
+}
+
+.movie_year{
+    font-size: 20px;
+}
+
+.movie_summary{
+    color: rgb(43, 43, 43);
+}
